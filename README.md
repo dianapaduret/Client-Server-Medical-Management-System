@@ -43,3 +43,39 @@ src/
         ├── ui/
         ├── util/
         └── Main.java
+
+---
+
+
+## Technologies Used
+
+- Java
+- Maven
+- Object-Oriented Programming
+- Client-Server Architecture
+- DAO Pattern
+- Layered Architecture
+
+---
+
+## How to Run
+
+1. Clone the repository  
+2. Open the project in IntelliJ IDEA or Visual Studio Code with Java extensions  
+3. Install dependencies using Maven  
+4. Start the server  
+5. Start the client  
+6. Use the console menus to interact with the application  
+
+---
+
+## What I Learned
+
+Through this project, I practiced:
+
+- designing a layered software architecture  
+- applying OOP principles in a complete Java application  
+- separating persistence, business logic, and user interaction  
+- organizing a project for readability and maintainability  
+- building an application with a client-server oriented structure  
+
