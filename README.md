@@ -63,14 +63,6 @@ Through this project, I practiced:
 - organizing a project for readability and maintainability  
 - building an application with a client-server oriented structure
 
-## How to Run
-
-1. Clone the repository
-2. Open the project in an IDE with Java support
-3. Build the project using Maven
-4. Start the server
-5. Start the client
-6. Use the console menus to interact with the application
 
 ## Project Structure
 
