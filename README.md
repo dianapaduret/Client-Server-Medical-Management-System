@@ -29,23 +29,7 @@ The application is organized into multiple layers, each with a clear responsibil
 - **Network layer** – supports the client-server communication
 - **Utility layer** – contains validation and helper methods
 
-## Project Structure
-
-```text
-src/
-└── main/
-    └── java/
-        ├── dao/
-        ├── db/
-        ├── model/
-        ├── network/
-        ├── service/
-        ├── ui/
-        ├── util/
-        └── Main.java
-
 ---
-
 
 ## Technologies Used
 
@@ -78,4 +62,19 @@ Through this project, I practiced:
 - separating persistence, business logic, and user interaction  
 - organizing a project for readability and maintainability  
 - building an application with a client-server oriented structure  
+
+## Project Structure
+
+```text
+src/
+└── main/
+    └── java/
+        ├── dao/
+        ├── db/
+        ├── model/
+        ├── network/
+        ├── service/
+        ├── ui/
+        ├── util/
+        └── Main.java
 
